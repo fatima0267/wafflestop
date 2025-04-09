@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>waffle stop</title>
+</head>    
+<body>
+    <div class="header"></div>
+    <h1 class="main-heading">WAFFLE STOP</h1>
+    <P class="sub-heading">Welcome to our waffle world</P>
+    <p class="tagline">Delicious homemade waffles made with love in every bite.</p>
+
+    <img src="waffle.jpg" alt="A plate of waffles" width="300">
+
+    <h2>Our Menu</h2>
+    <ul class="menu">
+        <li>classic waffle - &#8358;2000</li>
+        <li>chocolate waffle - &#8358;3000</li>
+        <li>strawberry waffle - &#8358;3500</li>
+    </ul>
+    <p>Visit us today or order online to satisfy your cravings!</p>
+</body>
+</html>
